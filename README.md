@@ -1,5 +1,5 @@
 ### Hi there! 👋
-I'm a Developer Advocate at Invertase, where I help developers build and scale with [Dart](https://dart.dev/) and [Flutter](https://flutter.dev/), and beyond.
+I'm a Developer Advocate at [Invertase](https://invertase.io/), where I help developers build and scale with [Dart](https://dart.dev/) and [Flutter](https://flutter.dev/), and beyond.
 
 ### 🌍 Working on Globe
 I’m currently focused on [Globe](https://globe.dev/) – the easiest way to deploy your Dart & Flutter applications to a globally distributed network.
