@@ -1,33 +1,35 @@
 ### Hi there! 👋
-I'm a Developer Advocate at [Invertase](https://invertase.io/), where I help developers build and scale with [Dart](https://dart.dev/) and [Flutter](https://flutter.dev/), and beyond.
+I'm a DevRel Engineer at [Serverpod](https://serverpod.dev/), where I help developers build full-stack applications with [Dart](https://dart.dev/) and [Flutter](https://flutter.dev/), from the app all the way to the backend.
 
-### 🌍 Working on Globe
-I’m currently focused on [Globe](https://globe.dev/) – the easiest way to deploy your Dart & Flutter applications to a globally distributed network.
+I'm also a [Google Developer Expert (GDE)](https://developers.google.com/community/experts) in Flutter and Dart.
 
-- 🚀 Deploy with ease – Take your apps live in just a few steps
-- 🌎 Global distribution – Deliver fast, reliable experiences anywhere
-- ⚡ Optimized for Dart & Flutter – Seamless integration with your stack
+### ⚡ Working on Serverpod
+I'm currently focused on [Serverpod](https://serverpod.dev/) – the open-source backend framework built for Flutter developers, written entirely in Dart.
 
-If you’re building with Flutter, Globe makes deployment effortless. Try it now 👉 [globe.dev](https://globe.dev/)
+- 🚀 One language, full stack – Write your backend in Dart, share code with your Flutter app
+- 🔄 Type-safe by default – Auto-generated client code, no manual API glue
+- 🛠 Batteries included – ORM, authentication, caching, real-time communication, and more
+
+If you're building with Flutter and want your backend in Dart too, give it a spin 👉 [serverpod.dev](https://serverpod.dev/)
 
 ### 💙 Founder of FlutterBytes
 I also run [FlutterBytes](https://x.com/flutterbytes_c) – a community dedicated to helping Flutter developers grow, learn, and collaborate.
 
-- 🏆 Organized Africa’s largest physical [Flutter conference](https://www.flutterbytesconf.com/)
+- 🏆 Organizer of [FlutterBytes Conference](https://www.flutterbytesconf.com/), the first Flutter-focused developer conference in Africa
 - 💡 Sharing tips, insights, and best practices for Flutter & Dart
 - 🚀 Building a strong ecosystem for Flutter developers
 
-Join the [community](https://x.com/flutterbytes_c) and let’s push Flutter forward!
+Join the [community](https://x.com/flutterbytes_c) and let's push Flutter forward!
 
 ### 👨‍💻 More About Me
-- 🌱 I maintain [smart-text-flutter](https://pub.dev/packages/smart_text_flutter) – making text smarter in Flutter apps
+- 📦 I maintain packages on pub.dev, including [smart_text_flutter](https://pub.dev/packages/smart_text_flutter) and [screen_time_blocker](https://pub.dev/packages/screen_time_blocker)
 - 👯 I love contributing to open source & collaborating on exciting projects
-- 💬 Ask me about Flutter, Dart, and of course, [Globe](https://globe.dev/)!
+- 💬 Ask me about Flutter, Dart, and building full-stack apps with [Serverpod](https://serverpod.dev/)!
 
-### 🔗 Let’s Connect
+### 🔗 Let's Connect
 - 🛠 [GitHub](https://github.com/developerjamiu) – Check out my projects
 - 🚀 [Twitter](https://x.com/developerjamiu) – Thoughts, updates, and occasional hot takes
-- 👨‍💼 [LinkedIn](https://www.linkedin.com/in/developerjamiu/) – Let’s connect
+- 👨‍💼 [LinkedIn](https://www.linkedin.com/in/developerjamiu/) – Let's connect
 
 😄 Pronouns: he/him/his
 
